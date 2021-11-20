@@ -10,8 +10,8 @@ theme:
       primary: pink
       accent: indigo
       toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
+        icon: material/weather-sunny
+        name: Dark mode
 
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
@@ -19,8 +19,8 @@ theme:
       primary: pink
       accent: blue
       toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
+        icon: material/weather-night
+        name: Light mode
 
 # Extensions
 markdown_extensions:
