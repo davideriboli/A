@@ -1,5 +1,3 @@
-# A
-
 **A** è un progetto artistico di natura generativa e multidisciplinare a cura di [Argo](https://arg.ooo) e in via di realizzazione grazie al sostegno dell'Assessorato alla Bellezza del [Comune di Pesaro](http://www.comune.pesaro.pu.it/cultura/) e alla [Fondazione Pescheria Pesaro](https://www.fondazionepescheria.it/).
 
 Questo sito è realizzato con [Obsidian](https://obsidian.md) e [GitHub](https://github.com). Il repository, con tutti i file di progetto, è disponibile all'URL [https://github.com/davideriboli/A](https://github.com/davideriboli/A).
