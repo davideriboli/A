@@ -1,10 +1,10 @@
-## Risorse varie su #VirtualReality e #MixedReality 
+## Risorse varie su #VR/VirtualReality e #VR/MixedReality 
 
 - [https://support.oculus.com/3917189168403921](https://support.oculus.com/3917189168403921)
 - [https://developer.oculus.com/downloads/package/mixed-reality-capture-tools/](https://developer.oculus.com/downloads/package/mixed-reality-capture-tools/)
 - [https://www.oculus.com/experiences/quest/2532132800176262/](https://www.oculus.com/experiences/quest/2532132800176262/)
 
-#vrcasting
+#VR/Casting
 
 - [https://www.oculus.com/casting](https://www.oculus.com/casting)
 
