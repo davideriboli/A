@@ -6,9 +6,9 @@ Primo : ~~Gli ossi di pollo gettati a terra ci dicono che è necessario che i pa
 
 Sostituire con estrazione rune o Oblique.
 
-Secondo: La televisione va tenuta spenta e lasciata alla sua funzione naturale di totem.
+Secondo: la televisione andrebbe tenuta spenta.
 
-Terzo: riguardo a ciò che dice il Papa sulla situazione attuale di crisi il mio responso è: Omissis.
+Terzo: riguardo all'opinione del Papa sull'attuale situazione attuale di crisi il mio responso è: Omissis.
 
 Quarto: sul governo Forlani, ma anche sui governi Spadolini e Fanfani, la visione del qui presente sciamano Enea è: Omissis. Il quinto vaticinio è il seguente: se continuerete con la vostra bruttissima abitudine di lasciare la televisione sempre accesa, sempre parlante a vanvera, inopportuna e a un volume troppo alto, accadrà che un giorno non smetterà più di trasmettere; rimarrà in funzione per diciotto ore consecutive per poi terminare con un evento doloroso, triste e infausto.
 
