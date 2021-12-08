@@ -6,6 +6,6 @@ Un totem... un totem è una connessione tra una specie animale o vegetale o un o
 
 **03_02**
 
-C'era una casa in campagna. Lì il totem era la televisione e lo sciamano si chiamava Enea, classe 1896, reduce della Prima guerra mondiale, ferito in combattimento e più volte decorato al valor militare. I vaticini dello sciamano Enea avvenivano tramite sequenza algoritmica di bestemmie a cui corrispondevano in maniera sincronica le preghiere del rosario proferite dalla di lui moglie. Solo tramite l’impasto alchemico delle due voci e dei diversi toni, uno fortissimo l’altro bassissimo, avevano luogo i vaticini che, nella tarda primavera del 1981, furono così rivelati per l’immediato futuro.
+C'era una casa in campagna. Lì il totem era la televisione e lo sciamano si chiamava Enea, classe 1896, reduce della Prima guerra mondiale, ferito in combattimento e più volte decorato al valor militare. I vaticini di Enea avvenivano tramite una sequenza algoritmica di bestemmie cui corrispondevano, in maniera sincronica, le preghiere del rosario declinate da sua moglie. Solo tramite l’impasto alchemico delle due voci e dei diversi toni, uno fortissimo l’altro bassissimo, avevano luogo i vaticini che, nella tarda primavera del 1981, furono così rivelati per l’immediato futuro.
 
 [[docs/Partitura/02_Partitura Davide_01/Scena_04]]
