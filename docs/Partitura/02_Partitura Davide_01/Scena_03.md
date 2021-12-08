@@ -2,7 +2,9 @@
 
 **03_01**
 
-Che cos’è un totem? Gli antropologi ci dicono che è una connessione tra una specie animale, vegetale o un oggetto inanimato e una comunità di individui. Dunque una relazione psicologica che lega un uomo o addirittura un’etnia a qualcosa che appartiene all’ambiente circostante. Gli Irochesi del fume Thompson avevano clan con nomi di animali: come aquila, orso, falco... Fu proprio Il capo spirituale, lo sciamano Hiawatha a dividere le tribù in clan, per poi assegnare loro un animale totem. Hiawatha ebbe la visione in sogno, gli spiriti gli avevano detto che quella era la strada per la pace: probabilmente perché un legame psicologico diventa irreversibilmente un nodo spirituale.
+Rendere leggermente meno didascalico...
+
+Che cos’è un totem è una connessione tra una specie animale, vegetale o un oggetto inanimato e una comunità di individui. Dunque una relazione psicologica che lega un uomo o addirittura un’etnia a qualcosa che appartiene all’ambiente circostante. Gli Irochesi del fume Thompson avevano clan con nomi di animali: come aquila, orso, falco... Fu proprio Il capo spirituale, lo sciamano Hiawatha a dividere le tribù in clan, per poi assegnare loro un animale totem. Hiawatha ebbe la visione in sogno, gli spiriti gli avevano detto che quella era la strada per la pace: probabilmente perché un legame psicologico diventa irreversibilmente un nodo spirituale.
 
 **03_02**
 
