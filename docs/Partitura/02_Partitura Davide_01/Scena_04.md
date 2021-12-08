@@ -12,7 +12,7 @@ Terzo: riguardo all'opinione del Papa sull'attuale situazione di crisi ~~il mio 
 
 Quarto: sul governo Forlani, ma anche sui governi Spadolini e Fanfani, le visioni ~~del qui presente sciamano Enea è: Omissis.~~ dicono che *Sostituire con effetto.*
 
-Il quinto vaticinio è il seguente: se continuerete con la vostra bruttissima abitudine di lasciare la televisione sempre accesa, sempre parlante a vanvera, inopportuna e a un volume troppo alto, accadrà che un giorno non smetterà più di trasmettere; rimarrà in funzione per diciotto ore consecutive per poi terminare con un evento doloroso, triste e infausto.
+Il quinto vaticinio è ~~il seguente~~ un monito: se vi ostin con la vostra bruttissima abitudine di lasciare la televisione sempre accesa, sempre parlante a vanvera, inopportuna e a un volume troppo alto, accadrà che un giorno non smetterà più di trasmettere; rimarrà in funzione per diciotto ore consecutive per poi terminare con un evento doloroso, triste e infausto.
 
 Ciò detto lo sciamano iniziò la sua sequenza rituale di bestemmie con grande determinazione e con cadenza liturgica, mentre la moglie snocciolava imperterrita il rosario, seguendo una precisa e composita litania ipnotica.
 
