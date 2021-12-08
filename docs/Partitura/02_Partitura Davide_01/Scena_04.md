@@ -14,6 +14,6 @@ Quarto: sul governo Forlani, ma anche sui governi Spadolini e Fanfani, le vision
 
 Il quinto vaticinio è ~~il seguente~~ un monito: se vi ostinerete a tenere la televisione sempre accesa e a un volume troppo alto, verrà un giorno in cui non smetterà più di trasmettere ~~; rimarrà in funzione per diciotto ore consecutive per poi terminare con un evento doloroso, triste e infausto.~~ e anche se allora lo vorrete, non potrete più spegnerla.
 
-Ciò detto lo sciamano iniziò la sua sequenza rituale di bestemmie con grande determinazione e con cadenza liturgica, mentre la moglie snocciolava imperterrita il rosario, seguendo una precisa e composita litania ipnotica.
+~~Ciò detto lo sciamano iniziò la sua sequenza rituale di bestemmie con grande determinazione e con cadenza liturgica, mentre la moglie snocciolava imperterrita il rosario, seguendo una precisa e composita litania ipnotica.~~
 
 [[docs/Partitura/02_Partitura Davide_01/Scena_05]]
