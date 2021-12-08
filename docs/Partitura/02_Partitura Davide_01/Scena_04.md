@@ -2,7 +2,9 @@
 
 **04**
 
-Gli ossi di pollo gettati a terra ci dicono che è necessario che i pasti vadano consumati preferibilmente nel bosco, da soli. Per il trasporto del cibo, le tasche della giacca andranno più che bene.
+Primo : ~~Gli ossi di pollo gettati a terra ci dicono che è necessario che i pasti vadano consumati preferibilmente nel bosco, da soli. Per il trasporto del cibo, le tasche della giacca andranno più che bene.~~
+
+Sostituire con estrazione rune o Oblique.
 
 Secondo: La televisione va tenuta spenta e lasciata alla sua funzione naturale di totem.
 
