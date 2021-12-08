@@ -6,4 +6,4 @@ L’estate passata in campagna era il suono delle cicale: un ronzio continuo e o
 
 D’estate in campagna si andava a riposare dopo pranzo, per evitare le ore più calde e perché appesantiti dal cibo, ma a volte era davvero difficile dormire, quel rumore passava attraverso le serrande e si depositava ovunque nella stanza, fin dentro gli angoli più nascosti. I pomeriggi diventavano interminabili, senza niente da fare, solo aspettare la sera per poter scongiurare l’afa e la noia, e sperare di incontrare qualcuno con cui scambiare due parole.
 
-[[Scena_02]]
+[[docs/Partitura/01_Partitura Rossano_01/Scena_02]]

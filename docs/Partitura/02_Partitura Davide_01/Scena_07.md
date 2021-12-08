@@ -1,4 +1,4 @@
-[[Scena_06]]
+[[docs/Partitura/02_Partitura Davide_01/Scena_06]]
 
 **07**      
 
@@ -38,4 +38,4 @@ Raccomandami al tuo figliuol, verace
 homo et verace Dio,  
 ch’accolga ’l mïo spirto ultimo in pace.
 
-[[Scena_08]]
+[[docs/Partitura/02_Partitura Davide_01/Scena_08]]

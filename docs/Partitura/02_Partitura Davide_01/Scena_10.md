@@ -1,4 +1,4 @@
-[[Scena_09]]
+[[docs/Partitura/02_Partitura Davide_01/Scena_09]]
 
 **10**
 
@@ -97,4 +97,4 @@ come un traditore
 
 io che volevo fare il calciatore
 
-[[Scena_11]]
+[[docs/Partitura/02_Partitura Davide_01/Scena_11]]

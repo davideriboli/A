@@ -1,4 +1,4 @@
-[[Scena_10]]
+[[docs/Partitura/02_Partitura Davide_01/Scena_10]]
 
 **11_01**
 
@@ -8,4 +8,4 @@
 
 «Nelle miniere di sale di Salisburgo si usa gettare nelle profondità abbandonate della miniera un ramo sfogliato dal gelo; due o tre mesi dopo lo si ritrova coperto di fulgide cristallizzazioni: i più minuti ramoscelli, quelli che non sono più grossi dello zampino d’una cincia, sono fioriti di una infinità di diamanti mobili e scintillanti; è impossibile riconoscere il ramo primitivo».
 
-[[Scena_12]]
+[[docs/Partitura/02_Partitura Davide_01/Scena_12]]

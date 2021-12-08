@@ -1,7 +1,7 @@
-[[Scena_07]]
+[[docs/Partitura/01_Partitura Rossano_01/Scena_07]]
 
 **08**
 
 _Mater dolorosa, azione scenica._
 
-[[Scena_09]]
+[[docs/Partitura/01_Partitura Rossano_01/Scena_09]]

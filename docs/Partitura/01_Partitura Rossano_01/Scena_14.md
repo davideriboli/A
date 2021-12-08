@@ -1,7 +1,7 @@
-[[Scena_13]]
+[[docs/Partitura/01_Partitura Rossano_01/Scena_13]]
 
 **14**
 
 _Resurrezione, azione scenica._
 
-[[Scena_15]]
+[[docs/Partitura/01_Partitura Rossano_01/Scena_15]]

@@ -1,4 +1,4 @@
-[[Scena_03]]      
+[[docs/Partitura/02_Partitura Davide_01/Scena_03]]      
 
 **04**
 
@@ -12,4 +12,4 @@ Quarto: sul governo Forlani, ma anche sui governi Spadolini e Fanfani, la vision
 
 Ciò detto lo sciamano iniziò la sua sequenza rituale di bestemmie con grande determinazione e con cadenza liturgica, mentre la moglie snocciolava imperterrita il rosario, seguendo una precisa e composita litania ipnotica.
 
-[[Scena_05]]
+[[docs/Partitura/02_Partitura Davide_01/Scena_05]]

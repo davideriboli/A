@@ -1,4 +1,4 @@
-[[Scena_05]]
+[[docs/Partitura/01_Partitura Rossano_01/Scena_05]]
 
 **06_01**
 
@@ -8,4 +8,4 @@ Nel tardo pomeriggio di ieri, 10 giugno 1981, a Vermicino, un piccolo paese nei 
 
 La Rai radiotelevisione italiana, a fronte delle innumerevoli richieste pervenute attraverso le telefonate da parte del pubblico, seguirà in diretta le vicende che vedono i soccorritori impegnati nelle operazioni di scavo per riportare in superficie il piccolo Alfredo.
 
-[[Scena_07]]
+[[docs/Partitura/01_Partitura Rossano_01/Scena_07]]

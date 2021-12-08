@@ -1,7 +1,7 @@
-[[Scena_04]]
+[[docs/Partitura/01_Partitura Rossano_01/Scena_04]]
 
 **05**
 
 _Lo sciamano, azione scenica._
 
-[[Scena_06]]
+[[docs/Partitura/01_Partitura Rossano_01/Scena_06]]

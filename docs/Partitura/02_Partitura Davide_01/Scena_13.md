@@ -1,4 +1,4 @@
-[[Scena_12]]
+[[docs/Partitura/02_Partitura Davide_01/Scena_12]]
 
 **13**
 
@@ -10,4 +10,4 @@ Alfredino mi tornò in mente improvvisamente la stessa estate della sua morte, q
 
 Non so bene il motivo, ma in quel momento ripensai immediatamente ad Alfredo, al suo ultimo incontro con un essere umano, con quell'Angelo Licheri che di mestiere faceva il facchino presso una tipografia romana, e che di notte scese laggiù in fondo al pozzo, a sessanta metri di profondità e, rischiando la sua stessa vita, provò diverse volte a imbracare il piccolo Alfredo, senza riuscirci, per poi lasciarlo lì in quel buco nero, in quel sarcofago di fango. Ripensai ad Alfredo che si ruppe il polso nel tentativo di aggrapparsi a quell'uomo che da quarantacinque minuti stava a testa in giù e che alla fine vide quelle corde scivolare via nel fango senza riuscire a stringere il corpo del bambino. Pensai che il mio dolore, mescolato al senso di ingiustizia per la morte di quel fringuello, era lo stesso dolore che provai per la morte di Alfredino. Era lo stesso sentire, nello stesso punto dello stomaco. Capii che le preghiere, quelle non esaudite, hanno tutte lo stesso sapore, perché continuiamo a recitarle per tutto il resto della nostra vita.
 
-[[Scena_14]]
+[[docs/Partitura/02_Partitura Davide_01/Scena_14]]
