@@ -6,5 +6,6 @@
 
 ~~L’elenco degli appartenenti all’organizzazione è stato reso pubblico il 21 maggio 1981, lo scandalo derivato ha causato la caduta del governo Forlani e la conseguente instabilità dei governi Spadolini semel, Spadolini bis e Fanfani quinquies.~~
 
-Sostituito con 
+*Sostituito con elementi multimediali*
+
 [[docs/Partitura/02_Partitura Davide_01/Scena_03]]
