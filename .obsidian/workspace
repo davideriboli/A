@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Partitura/02_Partitura Davide_01/Scena_02.md",
+            "file": "docs/Partitura/02_Partitura Davide_01/Scena_04.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Partitura/02_Partitura Davide_01/Scena_02.md",
+                "file": "docs/Partitura/02_Partitura Davide_01/Scena_04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Partitura/02_Partitura Davide_01/Scena_02.md",
+                "file": "docs/Partitura/02_Partitura Davide_01/Scena_04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,14 +111,14 @@
   },
   "active": "9a16c4e9f09bac61",
   "lastOpenFiles": [
+    "docs/Partitura/02_Partitura Davide_01/Scena_04.md",
+    "docs/Partitura/02_Partitura Davide_01/Scena_03.md",
     "docs/Partitura/02_Partitura Davide_01/Scena_02.md",
     "docs/Partitura/02_Partitura Davide_01/Scena_01.md",
     "docs/Blog/12-2021/08-12-2021.md",
     "docs/Blog/12-2021/05-12-2021.md",
     "docs/Partitura/02_Partitura Davide_01/Scena_06.md",
     "docs/Partitura/02_Partitura Davide_01/Scena_05.md",
-    "docs/Partitura/02_Partitura Davide_01/Scena_04.md",
-    "docs/Partitura/02_Partitura Davide_01/Scena_03.md",
     "docs/Blog/12-2021/02-12-2021.md",
     "docs/Tools/Oblique.md"
   ]
