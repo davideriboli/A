@@ -7,7 +7,7 @@
         "id": "9a16c4e9f09bac61",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -107,6 +107,7 @@
   },
   "active": "9a16c4e9f09bac61",
   "lastOpenFiles": [
+    "Senza nome.md",
     "docs/Blog/12-2021/09-12-2021.md",
     "docs/Blog/12-2021/08-12-2021.md",
     "docs/Moodboard/Immagini/Immagini.md",
@@ -115,7 +116,6 @@
     "docs/Moodboard/Immagini/Senza nome 1.md",
     "docs/Moodboard/Immagini/Immagini Sacre.md",
     "docs/Media/Immagini/02/photo_2021-12-05_21-32-43.jpg",
-    "docs/Partitura/02_Partitura Davide_01/Scena_15.md",
-    "docs/Partitura/02_Partitura Davide_01/Scena_14.md"
+    "docs/Partitura/02_Partitura Davide_01/Scena_15.md"
   ]
 }
