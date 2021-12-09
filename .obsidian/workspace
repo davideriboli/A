@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Partitura/02_Partitura Davide_01/Scena_15.md",
-            "mode": "preview"
+            "file": "docs/Moodboard/Immagini/Immagini.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Partitura/02_Partitura Davide_01/Scena_15.md",
+                "file": "docs/Moodboard/Immagini/Immagini.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Partitura/02_Partitura Davide_01/Scena_15.md",
+                "file": "docs/Moodboard/Immagini/Immagini.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,6 +111,7 @@
   },
   "active": "9a16c4e9f09bac61",
   "lastOpenFiles": [
+    "docs/Moodboard/Immagini/Immagini.md",
     "docs/Partitura/02_Partitura Davide_01/Scena_15.md",
     "docs/Partitura/02_Partitura Davide_01/Scena_14.md",
     "docs/Partitura/02_Partitura Davide_01/Scena_13.md",
@@ -119,7 +120,6 @@
     "docs/Partitura/02_Partitura Davide_01/Scena_10.md",
     "docs/Partitura/02_Partitura Davide_01/Scena_09.md",
     "docs/Partitura/02_Partitura Davide_01/Scena_08.md",
-    "docs/Partitura/02_Partitura Davide_01/Scena_07.md",
-    "docs/Partitura/02_Partitura Davide_01/Scena_06.md"
+    "docs/Partitura/02_Partitura Davide_01/Scena_07.md"
   ]
 }

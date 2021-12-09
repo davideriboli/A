@@ -10,7 +10,9 @@
 - [Varia](https://pin.it/1Mpcb1D)
 
 ### Altre Immagini
-Le immagini trovate con metodi che non ne permettono l'inclusione in Pinterest vengono archiviate in doccumenti locali.
+Le immagini trovate con metodi che non ne permettono l'inclusione in Pinterest vengono archiviate in documenti locali.
 
 - [[Immagini Sacre]]
 - [[Vermicino]]
+
+### Altre Immagin
