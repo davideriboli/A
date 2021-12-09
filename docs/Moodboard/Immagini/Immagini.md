@@ -15,4 +15,5 @@ Le immagini trovate con metodi che non ne permettono l'inclusione in Pinterest v
 - [[Immagini Sacre]]
 - [[Vermicino]]
 
-### Altre Immagin
+
+
