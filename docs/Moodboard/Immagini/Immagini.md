@@ -12,7 +12,7 @@
 ### Altre Immagini
 Le immagini trovate con metodi che non ne permettono l'inclusione in Pinterest vengono archiviate in documenti locali.
 
-- [[Campagne]]
+- [[Campagne-e-Cieli]]
 - [[Immagini Sacre]]
 - [[Vermicino]]
 

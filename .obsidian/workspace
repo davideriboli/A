@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Moodboard/Immagini/Campagne.md",
-            "mode": "source"
+            "file": "docs/Moodboard/Immagini/Immagini.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Moodboard/Immagini/Campagne.md",
+                "file": "docs/Moodboard/Immagini/Immagini.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Moodboard/Immagini/Campagne.md",
+                "file": "docs/Moodboard/Immagini/Immagini.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,15 +111,15 @@
   },
   "active": "9a16c4e9f09bac61",
   "lastOpenFiles": [
-    "docs/Moodboard/Immagini/Campagne.md",
-    "docs/Media/Immagini/02/photo_2021-12-05_21-32-43.jpg",
     "docs/Moodboard/Immagini/Immagini.md",
+    "docs/Moodboard/Immagini/Immagini Sacre.md",
+    "docs/Moodboard/Immagini/Campagne-e-Cieli.md",
+    "docs/Media/Immagini/02/photo_2021-12-05_21-32-43.jpg",
     "docs/Partitura/02_Partitura Davide_01/Scena_15.md",
     "docs/Partitura/02_Partitura Davide_01/Scena_14.md",
     "docs/Partitura/02_Partitura Davide_01/Scena_13.md",
     "docs/Partitura/02_Partitura Davide_01/Scena_12.md",
     "docs/Partitura/02_Partitura Davide_01/Scena_11.md",
-    "docs/Partitura/02_Partitura Davide_01/Scena_10.md",
-    "docs/Partitura/02_Partitura Davide_01/Scena_09.md"
+    "docs/Partitura/02_Partitura Davide_01/Scena_10.md"
   ]
 }
