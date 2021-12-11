@@ -5,6 +5,7 @@
 Avevo le gambe buone
 
 forti, da calciatore
+
 pronto a far carriera
 
 e fama, quella vera.

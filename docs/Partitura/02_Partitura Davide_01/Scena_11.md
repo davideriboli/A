@@ -2,7 +2,7 @@
 
 **11_01**
 
-21 milioni di telespettatori assistettero increduli, davanti alla televisione, ai tentativi di recuperare Alfredino Rampi dal profondo del pozzo. A mano a mano tutti capirono che quello che vedevano era la sola narrazione rimasta, l’unica a cui nessuno era ancora preparato: vedere in diretta la morte, al medesimo tempo eccitati e annichiliti.
+21 milioni di spettatori assistettero increduli, di fronte alle proprie televisioni, ai tentativi di recupero di A dal profondo del pozzo. Ben presto tutti capirono che quello che vedevano era la sola narrazione rimasta, l’unica a cui nessuno era ancora preparato: la morte in diretta, spettacolo proibito che allo stesso tempo eccita e annichilisce.
 
 **11_02**
 
