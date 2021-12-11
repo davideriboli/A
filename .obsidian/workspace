@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "83fe0f1170f05916",
+    "id": "65c2b7c786baba8d",
     "type": "split",
     "children": [
       {
-        "id": "c4ed7e587f4cbc28",
+        "id": "a7777d761a3832e7",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -105,7 +105,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c4ed7e587f4cbc28",
+  "active": "a7777d761a3832e7",
   "lastOpenFiles": [
     "Senza nome.md",
     "docs/Blog/12-2021/09-12-2021.md",
