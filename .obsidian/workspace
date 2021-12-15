@@ -7,11 +7,8 @@
         "id": "8da90599a448786f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "docs/Blog/12-2021/11-12-2021.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Blog/12-2021/11-12-2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Blog/12-2021/11-12-2021.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
