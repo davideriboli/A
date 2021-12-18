@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Blog/12-2021/18-12-2021.md",
+            "file": "docs/Blog/12-2021/05-12-2021.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 198.5
+    "width": 234.5
   },
   "right": {
     "id": "172f10330b312659",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Blog/12-2021/18-12-2021.md",
+                "file": "docs/Blog/12-2021/05-12-2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Blog/12-2021/18-12-2021.md",
+                "file": "docs/Blog/12-2021/05-12-2021.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,19 +107,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 238.5,
+    "collapsed": true
   },
   "active": "8da90599a448786f",
   "lastOpenFiles": [
-    "docs/Blog/12-2021/18-12-2021.md",
-    "docs/Blog/12-2021/11-12-2021.md",
+    "docs/Blog/12-2021/05-12-2021.md",
+    "docs/Blog/12-2021/08-12-2021.md",
     "docs/Blog/12-2021/09-12-2021.md",
+    "docs/Blog/12-2021/11-12-2021.md",
+    "docs/Blog/12-2021/18-12-2021.md",
     "docs/Partitura/02_Partitura Davide_01/Scena_15.md",
     "docs/Partitura/02_Partitura Davide_01/Scena_14.md",
     "docs/Partitura/02_Partitura Davide_01/Scena_13.md",
     "docs/Partitura/02_Partitura Davide_01/Scena_12.md",
-    "docs/Partitura/02_Partitura Davide_01/Scena_11.md",
-    "docs/Partitura/02_Partitura Davide_01/Scena_10.md",
-    "docs/Partitura/02_Partitura Davide_01/Scena_09.md"
+    "docs/Partitura/02_Partitura Davide_01/Scena_11.md"
   ]
 }
