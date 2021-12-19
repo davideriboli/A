@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Tools/Risorse VR.md",
+            "file": "docs/Blog/12-2021/Test.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Tools/Risorse VR.md",
+                "file": "docs/Blog/12-2021/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Tools/Risorse VR.md",
+                "file": "docs/Blog/12-2021/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,15 +112,15 @@
   },
   "active": "8da90599a448786f",
   "lastOpenFiles": [
+    "docs/Blog/12-2021/Test.md",
+    "docs/Blog/12-2021/19-12-2021.md",
+    "docs/Blog/12-2021/18-12-2021.md",
     "docs/Tools/Risorse VR.md",
     "docs/Blog/12-2021/05-12-2021.md",
     "docs/Blog/12-2021/08-12-2021.md",
     "docs/Blog/12-2021/09-12-2021.md",
     "docs/Blog/12-2021/11-12-2021.md",
-    "docs/Blog/12-2021/18-12-2021.md",
     "docs/Partitura/02_Partitura Davide_01/Scena_15.md",
-    "docs/Partitura/02_Partitura Davide_01/Scena_14.md",
-    "docs/Partitura/02_Partitura Davide_01/Scena_13.md",
-    "docs/Partitura/02_Partitura Davide_01/Scena_12.md"
+    "docs/Partitura/02_Partitura Davide_01/Scena_14.md"
   ]
 }
