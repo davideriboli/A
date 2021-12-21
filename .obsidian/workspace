@@ -1,13 +1,13 @@
 {
   "main": {
-    "id": "3ef472321b9df0a9",
+    "id": "49eecde2866c7ad5",
     "type": "split",
     "children": [
       {
-        "id": "ed007fcda43c1f0b",
+        "id": "358adf0c8fd80562",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -102,10 +102,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5,
-    "collapsed": true
+    "width": 238.5
   },
-  "active": "ed007fcda43c1f0b",
+  "active": "358adf0c8fd80562",
   "lastOpenFiles": [
     "docs/Blog/12-2021/Test.md",
     "docs/Blog/12-2021/19-12-2021.md",
