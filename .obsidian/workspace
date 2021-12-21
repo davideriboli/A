@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "fe55d94f5efd1b77",
+    "id": "3ef472321b9df0a9",
     "type": "split",
     "children": [
       {
-        "id": "7529be833eb1543c",
+        "id": "ed007fcda43c1f0b",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -105,7 +105,7 @@
     "width": 238.5,
     "collapsed": true
   },
-  "active": "7529be833eb1543c",
+  "active": "ed007fcda43c1f0b",
   "lastOpenFiles": [
     "docs/Blog/12-2021/Test.md",
     "docs/Blog/12-2021/19-12-2021.md",
