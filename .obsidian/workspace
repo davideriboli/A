@@ -7,16 +7,12 @@
         "id": "d8c20a81934d9d4b",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "edcf951f1aa7bc90",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "docs/Moodboard/ArchivioLoffreda/000_Indice.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/Moodboard/ArchivioLoffreda/000_Indice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/Moodboard/ArchivioLoffreda/000_Indice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,13 +110,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "edcf951f1aa7bc90",
+  "active": "d8c20a81934d9d4b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "docs/Moodboard/ArchivioLoffreda/015_Cuccagna.pdf",
-    "docs/Moodboard/ArchivioLoffreda/009_GiornaliRiviste.pdf",
+    "docs/Moodboard/ArchivioLoffreda/000_Indice.md",
     "docs/Moodboard/ArchivioLoffreda/008_FestivalMostreRassegne.pdf",
     "docs/Moodboard/ArchivioLoffreda/002_AttentatiPalestinesi.pdf",
-    "docs/Moodboard/ArchivioLoffreda/001_ArgomentiVari.pdf"
+    "docs/Moodboard/ArchivioLoffreda/001_ArgomentiVari.pdf",
+    "conflict-files-obsidian-git.md",
+    "docs/Moodboard/ArchivioLoffreda/015_Cuccagna.pdf",
+    "docs/Moodboard/ArchivioLoffreda/009_GiornaliRiviste.pdf"
   ]
 }
