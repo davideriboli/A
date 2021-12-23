@@ -1,13 +1,21 @@
 {
   "main": {
-    "id": "49eecde2866c7ad5",
+    "id": "83c1f426dbbeda73",
     "type": "split",
     "children": [
       {
-        "id": "358adf0c8fd80562",
+        "id": "d8c20a81934d9d4b",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "edcf951f1aa7bc90",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
           "state": {}
         }
       }
@@ -15,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7d53725a7377056c",
+    "id": "00f9c38c27f632f4",
     "type": "split",
     "children": [
       {
-        "id": "a4a06cd55cddd515",
+        "id": "b9a19eaf41c21b21",
         "type": "tabs",
         "children": [
           {
-            "id": "b0ba83e93b6f0cbf",
+            "id": "a195f1362042ebcf",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +39,7 @@
             }
           },
           {
-            "id": "6996821f8e7d188f",
+            "id": "7e99346fca6494b9",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -49,18 +57,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 300
   },
   "right": {
-    "id": "172f10330b312659",
+    "id": "df1b94b2fcac5bff",
     "type": "split",
     "children": [
       {
-        "id": "ecddd00637190916",
+        "id": "5b23b2bdaa8065f5",
         "type": "tabs",
         "children": [
           {
-            "id": "849c99ea8e5582b0",
+            "id": "51cdd565fe7db2b6",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -76,7 +84,7 @@
             }
           },
           {
-            "id": "2dc5d08656eff0de",
+            "id": "2623c5c03904b6a2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -87,7 +95,7 @@
             }
           },
           {
-            "id": "5420e4404b38d080",
+            "id": "700971bddea9d033",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -97,24 +105,20 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 300,
+    "collapsed": true
   },
-  "active": "358adf0c8fd80562",
+  "active": "edcf951f1aa7bc90",
   "lastOpenFiles": [
-    "docs/Blog/12-2021/Test.md",
-    "docs/Blog/12-2021/19-12-2021.md",
-    "docs/Blog/12-2021/18-12-2021.md",
-    "docs/Tools/Risorse VR.md",
-    "docs/Blog/12-2021/05-12-2021.md",
-    "docs/Blog/12-2021/08-12-2021.md",
-    "docs/Blog/12-2021/09-12-2021.md",
-    "docs/Blog/12-2021/11-12-2021.md",
-    "docs/Partitura/02_Partitura Davide_01/Scena_15.md",
-    "docs/Partitura/02_Partitura Davide_01/Scena_14.md"
+    "conflict-files-obsidian-git.md",
+    "docs/Media/ArchivioLoffreda/015_Cuccagna.pdf",
+    "docs/Media/ArchivioLoffreda/009_GiornaliRiviste.pdf",
+    "docs/Media/ArchivioLoffreda/008_FestivalMostreRassegne.pdf",
+    "docs/Media/ArchivioLoffreda/002_AttentatiPalestinesi.pdf",
+    "docs/Media/ArchivioLoffreda/001_ArgomentiVari.pdf"
   ]
 }

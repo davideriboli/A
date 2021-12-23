@@ -1,6 +1,8 @@
 {
-  "trashOption": "local",
+  "trashOption": "system",
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "docs/Media",
-  "promptDelete": false
+  "promptDelete": false,
+  "legacyEditor": false,
+  "livePreview": true
 }
