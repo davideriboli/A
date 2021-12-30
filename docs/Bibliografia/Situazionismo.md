@@ -15,8 +15,8 @@
 - [Il Teatro Senza Spettacolo](obsidian://open?vault=A&file=docs%2FMedia%2FTesti%2FTestiDavide%2FTeatroSenzaSpettacolo.pdf)
 
 ###### Video
-La Società dello Spettacolo
-(video in upload...)
+
+[La Società dello Spettacolo](http://u.pc.cd/HU0) (Link esterno al cloud di #Davide: il video può essere visto e/o scaricato).
 
 **In Girum Imus Nocte et Consumimur Igni**
 
