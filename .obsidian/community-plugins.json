@@ -1,4 +1,6 @@
 [
   "random-structural-diary-plugin",
-  "tag-wrangler"
+  "tag-wrangler",
+  "better-word-count",
+  "obsidian-git"
 ]

@@ -1,8 +1,16 @@
 {
-  "trashOption": "system",
+  "trashOption": "local",
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "docs/Media",
   "promptDelete": false,
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "it",
+    "it-IT"
+  ],
+  "showUnsupportedFiles": true
 }
