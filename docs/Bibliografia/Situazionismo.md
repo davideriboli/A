@@ -16,7 +16,7 @@
 
 ###### Video
 La Società dello Spettacolo
-xxxxx
+(video in upload...)
 
 **In Girum Imus Nocte et Consumimur Igni**
 
