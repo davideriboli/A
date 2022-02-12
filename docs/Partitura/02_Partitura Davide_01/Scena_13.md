@@ -2,7 +2,7 @@
 
 **13**
 
-Passavo le estati a casa dei miei nonni, in campagna. Ma quell’estate, quella dei miei 14 anni segnò il mio definitivo distacco con i luoghi della mia infanzia. Avevo terminato le scuole medie, a settembre sarei andata alle superiori. Non volli più trascorrere più di un pomeriggio in quei luoghi, rifiutavo di rimanerci anche per una sola notte.
+Passavo le estati a casa dei miei nonni, in campagna. Ma quell’estate, quella dei miei 14 anni segnò il mio definitivo distacco con i luoghi della mia infanzia. Avevo terminato le scuole medie, a settembre sarei andata alle superiori. Non volli trascorrere più di un pomeriggio in quei luoghi, rifiutavo di rimanerci anche per una sola notte.
 
 Le mie visite si diradarono rapidamente, mi limitavo ai pranzi della domenica, quasi obbligatori per mia madre, a cui seguiva l'altrettanto obbligatoria passeggiata fino alla casa vecchia, in collina, a raccogliere le erbe insieme a mia nonna. Quelle giornate estive passate a far niente erano impastate di un tedio mortale, non sopportavo più niente, e quel cicaleccio infernale pomeridiano mi iniettava un'angoscia sottile, arsa come il muro ricoperto di edera davanti a quella casa di campagna. I miei parenti continuavano instancabili e imperterriti nei loro riti antichi, mentre io mi sentivo lontano da ogni cosa. Era un sentimento di distanza che, col tempo crescendo, non mi avrebbe più abbandonato.
 

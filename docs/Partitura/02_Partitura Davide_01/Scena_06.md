@@ -6,7 +6,7 @@ Nel tardo pomeriggio di ieri, 10 giugno 1981, intorno alle 19:20, un bambino sta
 
 Si chiamava A.
 
-La famiglia, non vedendolo tornare a casa, iniziò a cercarlo nelle campagne circostanti fino a quando, in serata, furono allertate le forze d’ordine. Si scoprì che A era caduto in un pozzo artesiano largo più o meno come un tombino. Le operazioni per tentare recuperarlo iniziarono quasi subito.
+La famiglia, non vedendolo tornare a casa, iniziò a cercarlo nelle campagne circostanti fino a quando, in serata, furono allertate le forze d’ordine. Si scoprì che A era caduto in un pozzo artesiano largo più o meno come un tombino. Le operazioni per tentare di recuperarlo iniziarono quasi subito.
 
 **06_02**
 
