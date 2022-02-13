@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Blog/02-2022/13-02-2022.md",
+            "file": "docs/index.md",
             "mode": "preview",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Blog/02-2022/13-02-2022.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Blog/02-2022/13-02-2022.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Blog/02-2022/13-02-2022.md"
+                "file": "docs/index.md"
               }
             }
           }
@@ -123,15 +123,15 @@
   },
   "active": "1e5182f84bf35f5a",
   "lastOpenFiles": [
-    "docs/Blog/02-2022/13-02-2022.md",
+    "docs/index.md",
+    "Blog/02-2022/13-02-2022.md",
     "docs/Media/logo.png",
-    "docs/Blog/12-2021/30-12-2021.md",
-    "docs/Partitura/03_Partitura Finale/Scena_13.md",
-    "docs/Partitura/03_Partitura Finale/Scena_12.md",
-    "docs/Partitura/03_Partitura Finale/Scena_11.md",
-    "docs/Partitura/03_Partitura Finale/Scena_10.md",
-    "docs/Partitura/03_Partitura Finale/Scena_09.md",
-    "docs/Partitura/03_Partitura Finale/Scena_08.md",
-    "docs/Partitura/03_Partitura Finale/Scena_07.md"
+    "Blog/12-2021/30-12-2021.md",
+    "Partitura/03_Partitura Finale/Scena_13.md",
+    "Partitura/03_Partitura Finale/Scena_12.md",
+    "Partitura/03_Partitura Finale/Scena_11.md",
+    "Partitura/03_Partitura Finale/Scena_10.md",
+    "Partitura/03_Partitura Finale/Scena_09.md",
+    "Partitura/03_Partitura Finale/Scena_08.md"
   ]
 }

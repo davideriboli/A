@@ -1,0 +1,17 @@
+### Indice partitura originale
+
+- [[Partitura/02_Partitura Davide/Scena_01]]
+- [[Partitura/02_Partitura Davide/Scena_02]]
+- [[Partitura/02_Partitura Davide/Scena_03]]
+- [[Partitura/02_Partitura Davide/Scena_04]]
+- [[Partitura/02_Partitura Davide/Scena_05]]
+- [[Partitura/02_Partitura Davide/Scena_06]]
+- [[Partitura/02_Partitura Davide/Scena_07]]
+- [[Partitura/02_Partitura Davide/Scena_08]]
+- [[Partitura/02_Partitura Davide/Scena_09]]
+- [[Partitura/02_Partitura Davide/Scena_10]]
+- [[Partitura/02_Partitura Davide/Scena_11]]
+- [[Partitura/02_Partitura Davide/Scena_12]]
+- [[Partitura/02_Partitura Davide/Scena_13]]
+- [[Partitura/02_Partitura Davide/Scena_14]]
+- [[Partitura/02_Partitura Davide/Scena_15]]
