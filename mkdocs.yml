@@ -19,9 +19,9 @@ theme:
 
   language: it
 
-  logo: https://github.com/davideriboli/A/blob/main/docs/Media/Immagini/logo.png
+  logo: /Media/Immagini/logo.png
 
-  favicon: https://github.com/davideriboli/A/blob/main/docs/Media/Immagini/favicon.png
+  favicon: Media/Immagini/favicon.png
 
   features:
     - navigation.indexes

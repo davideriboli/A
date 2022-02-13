@@ -7,9 +7,12 @@
         "id": "1e5182f84bf35f5a",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "docs/Media/Immagini/logo.png"
+            "file": "docs/index.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
           }
         }
       }
@@ -67,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Media/Immagini/logo.png",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Media/Immagini/logo.png",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Media/Immagini/logo.png"
+                "file": "docs/index.md"
               }
             }
           }
@@ -120,9 +123,9 @@
   },
   "active": "1e5182f84bf35f5a",
   "lastOpenFiles": [
+    "docs/index.md",
     "docs/Media/Immagini/logo.png",
     "docs/Media/Immagini/favicon.png",
-    "docs/index.md",
     "Blog/02-2022/13-02-2022.md",
     "Blog/12-2021/30-12-2021.md",
     "Partitura/03_Partitura Finale/Scena_13.md",
