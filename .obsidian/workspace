@@ -7,9 +7,12 @@
         "id": "1e5182f84bf35f5a",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "docs/Media/logo.png"
+            "file": "docs/Blog/02-2022/13-02-2022.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
           }
         }
       }
@@ -67,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Media/logo.png",
+                "file": "docs/Blog/02-2022/13-02-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Media/logo.png",
+                "file": "docs/Blog/02-2022/13-02-2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Media/logo.png"
+                "file": "docs/Blog/02-2022/13-02-2022.md"
               }
             }
           }
@@ -120,8 +123,8 @@
   },
   "active": "1e5182f84bf35f5a",
   "lastOpenFiles": [
-    "docs/Media/logo.png",
     "docs/Blog/02-2022/13-02-2022.md",
+    "docs/Media/logo.png",
     "docs/Blog/12-2021/30-12-2021.md",
     "docs/Partitura/03_Partitura Finale/Scena_13.md",
     "docs/Partitura/03_Partitura Finale/Scena_12.md",
