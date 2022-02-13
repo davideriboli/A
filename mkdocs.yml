@@ -10,7 +10,7 @@ extra:
 
   social:
     - icon: fontawesome/brands/github 
-      link: https://github.com/davideriboli
+      link: https://github.com/davideriboli/A
     - icon: fontawesome/brands/centos 
       link: https://arg.ooo
 
@@ -19,9 +19,9 @@ theme:
 
   language: it
 
-  logo: media/logo.png
+  logo: media/Immagini/logo.png
 
-  favicon: media/favicon.png
+  favicon: media/Immagini/favicon.png
 
   features:
     - navigation.indexes
