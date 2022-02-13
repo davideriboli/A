@@ -1,0 +1,17 @@
+### Indice partitura originale
+
+- [[docs/Partitura/01_Partitura Rossano/Scena_01]]
+- [[docs/Partitura/01_Partitura Rossano/Scena_02]]
+- [[docs/Partitura/01_Partitura Rossano/Scena_03]]
+- [[docs/Partitura/01_Partitura Rossano/Scena_04]]
+- [[docs/Partitura/01_Partitura Rossano/Scena_05]]
+- [[docs/Partitura/01_Partitura Rossano/Scena_06]]
+- [[docs/Partitura/01_Partitura Rossano/Scena_07]]
+- [[docs/Partitura/01_Partitura Rossano/Scena_08]]
+- [[docs/Partitura/01_Partitura Rossano/Scena_09]]
+- [[docs/Partitura/01_Partitura Rossano/Scena_10]]
+- [[docs/Partitura/01_Partitura Rossano/Scena_11]]
+- [[docs/Partitura/01_Partitura Rossano/Scena_12]]
+- [[docs/Partitura/01_Partitura Rossano/Scena_13]]
+- [[docs/Partitura/01_Partitura Rossano/Scena_14]]
+- [[docs/Partitura/01_Partitura Rossano/Scena_15]]

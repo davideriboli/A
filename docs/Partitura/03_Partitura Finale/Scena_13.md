@@ -1,0 +1,43 @@
+[[docs/Partitura/02_Partitura Davide/Scena_12]]
+
+**13**
+
+Passavo le estati a casa dei miei nonni, in campagna. Ma quell’estate, quella dei miei 14 anni segnò il mio definitivo distacco con i luoghi della mia infanzia. Avevo terminato le scuole medie, a settembre sarei andata alle superiori. Non volli trascorrere più di un pomeriggio in quei luoghi, rifiutavo di rimanerci anche per una sola notte.
+
+Le mie visite si diradarono rapidamente, mi limitavo ai pranzi della domenica, quasi obbligatori per mia madre, a cui seguiva l'altrettanto obbligatoria passeggiata fino alla casa vecchia, in collina, a raccogliere le erbe insieme a mia nonna. Quelle giornate estive passate a far niente erano impastate di un tedio mortale, non sopportavo più niente, e quel cicaleccio infernale pomeridiano mi iniettava un'angoscia sottile, arsa come il muro ricoperto di edera davanti a quella casa di campagna. I miei parenti continuavano instancabili e imperterriti nei loro riti antichi, mentre io mi sentivo lontano da ogni cosa. Era un sentimento di distanza che, col tempo crescendo, non mi avrebbe più abbandonato.
+
+Il bambino mi tornò in mente improvvisamente la stessa estate della sua morte, quando mio zio, armeggiando con il fucile davanti al portone di casa, intento a pulire l'arma, fu preso da un raptus fulmineo e sparò senza pensarci su a un uccellino che stava volando a poca distanza da casa. Fu un gesto improvviso, rapido e folle come possono essere i raptus, tanto che subito dopo fu chiaro a tutti il pericolo a cui eravamo andati incontro. Raccogliemmo quel povero uccello quasi disintegrato dai pallini del bossolo sparato, era un fringuello talmente piccolo che mio zio non poté neanche giustificarsi con la solita scusa: “possiamo mangiarlo”. Rimase in silenzio e si allontanò con il corpicino del volatile che la sua mano richiudeva interamente, come un sepolcro di vergogna.
+
+Non so bene il motivo, ma in quel momento ripensai immediatamente ad A, al suo ultimo incontro con un essere umano che di mestiere faceva il facchino presso una tipografia romana e che di notte scese laggiù in fondo al pozzo, a sessanta metri di profondità e, rischiando la sua stessa vita, provò diverse volte a imbracare il piccolo, senza riuscirci, per poi lasciarlo lì in quel buco nero, in quel sarcofago di fango. Ripensai ad A che si ruppe il polso nel tentativo di aggrapparsi a quell'uomo che da quarantacinque minuti stava a testa in giù e che alla fine vide quelle corde scivolare via nel fango senza riuscire a stringere il corpo del bambino. Pensai che il mio dolore, mescolato al senso di ingiustizia per la morte di quel fringuello, era lo stesso dolore che provai per la morte di quel bambino. Era lo stesso sentire, nello stesso punto dello stomaco. Capii che le preghiere, quelle non esaudite, hanno tutte lo stesso sapore, perché continuiamo a recitarle per tutto il resto della nostra vita.
+
+[[docs/Partitura/02_Partitura Davide/Scena_14]]
+
+### domenica, 13 febbraio, 2022
+
+IN | OUT
+
+---
+
+**Ore xx**
+
+Scrivi qui
+
+___
+
+### Oblique
+
+[[docs/Partitura/02_Partitura Davide/Scena_05]]
+
+**06_01**
+
+Nel tardo pomeriggio di ieri, 10 giugno 1981, intorno alle 19:20, un bambino stava rientrando a casa da una passeggiata, quando chiese al padre di fare un tratto di strada da solo, attraverso i prati.
+
+Si chiamava A.
+
+La famiglia, non vedendolo tornare a casa, iniziò a cercarlo nelle campagne circostanti fino a quando, in serata, furono allertate le forze d’ordine. Si scoprì che A era caduto in un pozzo artesiano largo più o meno come un tombino. Le operazioni per tentare di recuperarlo iniziarono quasi subito.
+
+**06_02**
+
+La Rai radiotelevisione italiana, a fronte delle innumerevoli richieste pervenute attraverso le telefonate da parte del pubblico, inizia a seguire in diretta le vicende che vedono i soccorritori impegnati nelle operazioni di scavo per riportare in superficie il piccolo A.
+
+[[docs/Partitura/02_Partitura Davide/Scena_07]]
